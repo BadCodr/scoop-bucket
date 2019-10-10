@@ -16,9 +16,5 @@
 	"uninstaller": {
 		"file": "uninstall.exe",
 		"args": "-q"
-	},
-	"shortcuts": [
-		"BurpSuiteCommunity.exe",
-		"Burp Suite Community Edition"
-	]
+	}
 }
