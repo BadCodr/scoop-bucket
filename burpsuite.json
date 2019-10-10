@@ -10,7 +10,7 @@
 		"file": "BurpSuiteInstaller.exe",
 		"args": [
 			"-q",
-			"-dir\"$dir\""
+			"-dir \"$dir\""
 		]
 	},
 	"uninstaller": {
