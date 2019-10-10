@@ -5,6 +5,6 @@
     "license": "",
     "url": "https://portswigger.net/burp/releases/download?product=community&version=2.1.04&type=jar&componentid=100#/BurpSuite.jar",
     "hash": "795ce10638fb289144c6882ef10c5c1007ed6b428b41667455267b3aefa2f8eb",
-    "bin": "BurpSuite.jar",
+    "bin": "BurpSuite.jar"
 
 }
